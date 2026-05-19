@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "created_unix_seconds": 1779015466,
+  "checkpoint": "/content/drive/MyDrive/CineEmbed/artifacts/models/ae_z64.pt",
+  "checkpoint_sha256_32": "e7326ef3d6f6988a6ebd7e6502c9f0c4",
+  "model_type": "ae",
+  "latent_dim": 64,
+  "hidden_dim": 128,
+  "n_clusters": null,
+  "n_films": 329044,
+  "embedding_dim": 64,
+  "normalization": "L2",
+  "distance_metric": "cosine (dot product after L2 normalization)",
+  "retrieval": {
+    "k": 5,
+    "n_queries": 316,
+    "genre_at_k_mean": 0.7145569620253165,
+    "genre_at_k_median": 0.8,
+    "genre_at_k_std": 0.348473333953757,
+    "angular": {
+      "random_pair_cos_mean": 0.3032774031162262,
+      "random_pair_cos_std": 0.2985352873802185,
+      "random_pair_cos_min": -0.537011981010437,
+      "random_pair_cos_max": 0.9998889565467834
+    }
+  },
+  "eyeball": [
+    {
+      "query": "Inception",
+      "matched_title": "Inception",
+      "matched_year": 2010,
+      "neighbors": [
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "cosine": 0.9690926671028137
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "cosine": 0.9655241370201111
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "cosine": 0.9609422087669373
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.9523730278015137
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "cosine": 0.9506400227546692
+        }
+      ]
+    },
+    {
+      "query": "The Godfather",
+      "matched_title": "The Godfather",
+      "matched_year": 1972,
+      "neighbors": [
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "cosine": 0.9635316133499146
+        },
+        {
+          "title": "Papillon",
+          "year": 1973,
+          "cosine": 0.9626893997192383
+        },
+        {
+          "title": "Philadelphia",
+          "year": 1993,
+          "cosine": 0.9456933736801147
+        },
+        {
+          "title": "Chaplin",
+          "year": 1992,
+          "cosine": 0.941609263420105
+        },
+        {
+          "title": "A Streetcar Named Desire",
+          "year": 1951,
+          "cosine": 0.934973955154419
+        }
+      ]
+    },
+    {
+      "query": "Toy Story",
+      "matched_title": "Toy Story",
+      "matched_year": 1995,
+      "neighbors": [
+        {
+          "title": "Toy Story 2",
+          "year": 1999,
+          "cosine": 0.9857923984527588
+        },
+        {
+          "title": "WALL\u00b7E",
+          "year": 2008,
+          "cosine": 0.9779961109161377
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "cosine": 0.9744527339935303
+        },
+        {
+          "title": "Spaceballs",
+          "year": 1987,
+          "cosine": 0.9563208222389221
+        },
+        {
+          "title": "Mary and Max",
+          "year": 2009,
+          "cosine": 0.9555639028549194
+        }
+      ]
+    },
+    {
+      "query": "The Shawshank Redemption",
+      "matched_title": "The Shawshank Redemption",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "The Silence of the Lambs",
+          "year": 1991,
+          "cosine": 0.9872654676437378
+        },
+        {
+          "title": "The Usual Suspects",
+          "year": 1995,
+          "cosine": 0.9861106872558594
+        },
+        {
+          "title": "American History X",
+          "year": 1998,
+          "cosine": 0.9860029816627502
+        },
+        {
+          "title": "Boyz n the Hood",
+          "year": 1991,
+          "cosine": 0.9844399690628052
+        },
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992,
+          "cosine": 0.9839438199996948
+        }
+      ]
+    },
+    {
+      "query": "Pulp Fiction",
+      "matched_title": "Pulp Fiction",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Barton Fink",
+          "year": 1991,
+          "cosine": 0.9609776735305786
+        },
+        {
+          "title": "Raging Bull",
+          "year": 1980,
+          "cosine": 0.9487870335578918
+        },
+        {
+          "title": "4 Months, 3 Weeks and 2 Days",
+          "year": 2007,
+          "cosine": 0.9482941031455994
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "cosine": 0.9435064792633057
+        },
+        {
+          "title": "Sex, Lies, and Videotape",
+          "year": 1989,
+          "cosine": 0.9258149862289429
+        }
+      ]
+    },
+    {
+      "query": "The Matrix",
+      "matched_title": "The Matrix",
+      "matched_year": 1999,
+      "neighbors": [
+        {
+          "title": "True Romance",
+          "year": 1993,
+          "cosine": 0.9865823984146118
+        },
+        {
+          "title": "Man on Fire",
+          "year": 2004,
+          "cosine": 0.9847527742385864
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "cosine": 0.9842121005058289
+        },
+        {
+          "title": "Braveheart",
+          "year": 1995,
+          "cosine": 0.9835876226425171
+        },
+        {
+          "title": "V for Vendetta",
+          "year": 2006,
+          "cosine": 0.9831072688102722
+        }
+      ]
+    },
+    {
+      "query": "Interstellar",
+      "matched_title": "Interstellar",
+      "matched_year": 2014,
+      "neighbors": [
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.9817525148391724
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "cosine": 0.9774714708328247
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "cosine": 0.9690926671028137
+        },
+        {
+          "title": "The Martian",
+          "year": 2015,
+          "cosine": 0.9618067145347595
+        },
+        {
+          "title": "Captain Phillips",
+          "year": 2013,
+          "cosine": 0.9454885721206665
+        }
+      ]
+    },
+    {
+      "query": "Forrest Gump",
+      "matched_title": "Forrest Gump",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Breakfast at Tiffany's",
+          "year": 1961,
+          "cosine": 0.9703496694564819
+        },
+        {
+          "title": "Ever After: A Cinderella Story",
+          "year": 1998,
+          "cosine": 0.9678922295570374
+        },
+        {
+          "title": "10 Things I Hate About You",
+          "year": 1999,
+          "cosine": 0.9645024538040161
+        },
+        {
+          "title": "City Lights",
+          "year": 1931,
+          "cosine": 0.9615445733070374
+        },
+        {
+          "title": "Imagine Me & You",
+          "year": 2005,
+          "cosine": 0.9572014808654785
+        }
+      ]
+    },
+    {
+      "query": "The Dark Knight",
+      "matched_title": "The Dark Knight",
+      "matched_year": 2008,
+      "neighbors": [
+        {
+          "title": "Batman Begins",
+          "year": 2005,
+          "cosine": 0.9888960719108582
+        },
+        {
+          "title": "The Prestige",
+          "year": 2006,
+          "cosine": 0.9764916896820068
+        },
+        {
+          "title": "The Bourne Ultimatum",
+          "year": 2007,
+          "cosine": 0.9553492069244385
+        },
+        {
+          "title": "Insomnia",
+          "year": 2002,
+          "cosine": 0.9464297294616699
+        },
+        {
+          "title": "Adaptation.",
+          "year": 2002,
+          "cosine": 0.9454071521759033
+        }
+      ]
+    },
+    {
+      "query": "Spirited Away",
+      "matched_title": "Spirited Away",
+      "matched_year": 2001,
+      "neighbors": [
+        {
+          "title": "Princess Mononoke",
+          "year": 1997,
+          "cosine": 0.9819537401199341
+        },
+        {
+          "title": "Nausica\u00e4 of the Valley of the Wind",
+          "year": 1984,
+          "cosine": 0.9676857590675354
+        },
+        {
+          "title": "Pom Poko",
+          "year": 1994,
+          "cosine": 0.9626134634017944
+        },
+        {
+          "title": "Battle Royale",
+          "year": 2000,
+          "cosine": 0.9617228507995605
+        },
+        {
+          "title": "Kiki's Delivery Service",
+          "year": 1989,
+          "cosine": 0.9580549001693726
+        }
+      ]
+    }
+  ],
+  "phase": "mvp-carryover",
+  "family": "ae"
+}

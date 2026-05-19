@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "timestamp_utc": "2026-05-04T19:59:05.021259+00:00",
+  "library_versions": {
+    "numpy": "2.0.2",
+    "pandas": "2.2.2",
+    "sentence_transformers": "5.4.1",
+    "torch": "2.10.0+cu128",
+    "umap_learn": "0.5.12",
+    "scikit_learn": "1.6.1"
+  },
+  "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "n_films": 329044,
+  "feature_dim": 564,
+  "feature_matrix_md5": "e99cee84b6891ea352a7b44d5d7d0ee4"
+}

@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "created_unix_seconds": 1778968049,
+  "checkpoint": "artifacts/models/dec_z64_k21.pt",
+  "checkpoint_sha256_32": "72abb1e54534029f6736726fcbc44cd9",
+  "model_type": "dec",
+  "latent_dim": 64,
+  "hidden_dim": 128,
+  "n_clusters": 21,
+  "n_films": 329044,
+  "embedding_dim": 64,
+  "normalization": "L2",
+  "distance_metric": "cosine (dot product after L2 normalization)",
+  "retrieval": {
+    "k": 5,
+    "n_queries": 316,
+    "genre_at_k_mean": 0.5569620253164557,
+    "genre_at_k_median": 0.6,
+    "genre_at_k_std": 0.3737201092755255,
+    "angular": {
+      "random_pair_cos_mean": 0.0961848646402359,
+      "random_pair_cos_std": 0.4214240312576294,
+      "random_pair_cos_min": -0.7553672194480896,
+      "random_pair_cos_max": 0.9999998807907104
+    }
+  },
+  "eyeball": [
+    {
+      "query": "Inception",
+      "matched_title": "Inception",
+      "matched_year": 2010,
+      "neighbors": [
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.999916136264801
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "cosine": 0.9998868703842163
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "cosine": 0.9998612999916077
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "cosine": 0.9998602271080017
+        },
+        {
+          "title": "Star Wars: The Force Awakens",
+          "year": 2015,
+          "cosine": 0.9998593330383301
+        }
+      ]
+    },
+    {
+      "query": "The Godfather",
+      "matched_title": "The Godfather",
+      "matched_year": 1972,
+      "neighbors": [
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "cosine": 0.9999423623085022
+        },
+        {
+          "title": "Papillon",
+          "year": 1973,
+          "cosine": 0.9999262690544128
+        },
+        {
+          "title": "The Talented Mr. Ripley",
+          "year": 1999,
+          "cosine": 0.9999194741249084
+        },
+        {
+          "title": "The Devil's Advocate",
+          "year": 1997,
+          "cosine": 0.9999070167541504
+        },
+        {
+          "title": "Open Range",
+          "year": 2003,
+          "cosine": 0.9998953342437744
+        }
+      ]
+    },
+    {
+      "query": "Toy Story",
+      "matched_title": "Toy Story",
+      "matched_year": 1995,
+      "neighbors": [
+        {
+          "title": "Toy Story 2",
+          "year": 1999,
+          "cosine": 0.9999424815177917
+        },
+        {
+          "title": "Mary and Max",
+          "year": 2009,
+          "cosine": 0.9999158978462219
+        },
+        {
+          "title": "WALL\u00b7E",
+          "year": 2008,
+          "cosine": 0.9999144077301025
+        },
+        {
+          "title": "On the Waterfront",
+          "year": 1954,
+          "cosine": 0.9998915195465088
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "cosine": 0.9998859167098999
+        }
+      ]
+    },
+    {
+      "query": "The Shawshank Redemption",
+      "matched_title": "The Shawshank Redemption",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Scent of a Woman",
+          "year": 1992,
+          "cosine": 0.999986469745636
+        },
+        {
+          "title": "Elizabeth",
+          "year": 1998,
+          "cosine": 0.9999861121177673
+        },
+        {
+          "title": "The Lion King",
+          "year": 1994,
+          "cosine": 0.9999847412109375
+        },
+        {
+          "title": "Beauty and the Beast",
+          "year": 1991,
+          "cosine": 0.999984622001648
+        },
+        {
+          "title": "American History X",
+          "year": 1998,
+          "cosine": 0.9999837875366211
+        }
+      ]
+    },
+    {
+      "query": "Pulp Fiction",
+      "matched_title": "Pulp Fiction",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "4 Months, 3 Weeks and 2 Days",
+          "year": 2007,
+          "cosine": 0.9999871850013733
+        },
+        {
+          "title": "Barton Fink",
+          "year": 1991,
+          "cosine": 0.9999788403511047
+        },
+        {
+          "title": "The Witches",
+          "year": 1967,
+          "cosine": 0.9999685287475586
+        },
+        {
+          "title": "Superman II",
+          "year": 1980,
+          "cosine": 0.9999645948410034
+        },
+        {
+          "title": "The Three Musketeers",
+          "year": 1973,
+          "cosine": 0.9999643564224243
+        }
+      ]
+    },
+    {
+      "query": "The Matrix",
+      "matched_title": "The Matrix",
+      "matched_year": 1999,
+      "neighbors": [
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "cosine": 0.9999942183494568
+        },
+        {
+          "title": "Man on Fire",
+          "year": 2004,
+          "cosine": 0.9999924302101135
+        },
+        {
+          "title": "True Lies",
+          "year": 1994,
+          "cosine": 0.9999914765357971
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "cosine": 0.9999905824661255
+        },
+        {
+          "title": "Watchmen",
+          "year": 2009,
+          "cosine": 0.9999902844429016
+        }
+      ]
+    },
+    {
+      "query": "Interstellar",
+      "matched_title": "Interstellar",
+      "matched_year": 2014,
+      "neighbors": [
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "cosine": 0.9999535083770752
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.9999508261680603
+        },
+        {
+          "title": "Captain Phillips",
+          "year": 2013,
+          "cosine": 0.9999282956123352
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "cosine": 0.9999215602874756
+        },
+        {
+          "title": "Free State of Jones",
+          "year": 2016,
+          "cosine": 0.999916672706604
+        }
+      ]
+    },
+    {
+      "query": "Forrest Gump",
+      "matched_title": "Forrest Gump",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Sweet Home Alabama",
+          "year": 2002,
+          "cosine": 0.9999663829803467
+        },
+        {
+          "title": "Two Weeks Notice",
+          "year": 2002,
+          "cosine": 0.9999635219573975
+        },
+        {
+          "title": "Grumpy Old Men",
+          "year": 1993,
+          "cosine": 0.9999625086784363
+        },
+        {
+          "title": "Singin' in the Rain",
+          "year": 1952,
+          "cosine": 0.9999485015869141
+        },
+        {
+          "title": "Jerry Maguire",
+          "year": 1996,
+          "cosine": 0.9999479651451111
+        }
+      ]
+    },
+    {
+      "query": "The Dark Knight",
+      "matched_title": "The Dark Knight",
+      "matched_year": 2008,
+      "neighbors": [
+        {
+          "title": "In the Line of Fire",
+          "year": 1993,
+          "cosine": 0.9999414682388306
+        },
+        {
+          "title": "Batman Begins",
+          "year": 2005,
+          "cosine": 0.9999392032623291
+        },
+        {
+          "title": "True Lies",
+          "year": 1994,
+          "cosine": 0.9999265074729919
+        },
+        {
+          "title": "Heat",
+          "year": 1995,
+          "cosine": 0.999923586845398
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "year": 2009,
+          "cosine": 0.9999184608459473
+        }
+      ]
+    },
+    {
+      "query": "Spirited Away",
+      "matched_title": "Spirited Away",
+      "matched_year": 2001,
+      "neighbors": [
+        {
+          "title": "Cowboy Bebop: The Movie",
+          "year": 2001,
+          "cosine": 0.9999374151229858
+        },
+        {
+          "title": "Princess Mononoke",
+          "year": 1997,
+          "cosine": 0.9999294281005859
+        },
+        {
+          "title": "Ghost in the Shell",
+          "year": 1995,
+          "cosine": 0.9999232292175293
+        },
+        {
+          "title": "Big Nothing",
+          "year": 2006,
+          "cosine": 0.9999215602874756
+        },
+        {
+          "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+          "year": 1993,
+          "cosine": 0.999916136264801
+        }
+      ]
+    }
+  ],
+  "wall_clock_seconds": 9.2
+}

@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "created_unix_seconds": 1779016865,
+  "checkpoint": "/content/drive/MyDrive/CineEmbed/artifacts/models/ae_z32/ae.pt",
+  "checkpoint_sha256_32": "d61181b1a240a0f4e7a0cd8a4d7e748c",
+  "model_type": "ae",
+  "latent_dim": 32,
+  "hidden_dim": 128,
+  "n_clusters": null,
+  "n_films": 329044,
+  "embedding_dim": 32,
+  "normalization": "L2",
+  "distance_metric": "cosine (dot product after L2 normalization)",
+  "retrieval": {
+    "k": 5,
+    "n_queries": 316,
+    "genre_at_k_mean": 0.7227848101265822,
+    "genre_at_k_median": 1.0,
+    "genre_at_k_std": 0.3516504907111165,
+    "angular": {
+      "random_pair_cos_mean": 0.30189868807792664,
+      "random_pair_cos_std": 0.3007507920265198,
+      "random_pair_cos_min": -0.4343138039112091,
+      "random_pair_cos_max": 0.9999874234199524
+    }
+  },
+  "eyeball": [
+    {
+      "query": "Inception",
+      "matched_title": "Inception",
+      "matched_year": 2010,
+      "neighbors": [
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "cosine": 0.9911093711853027
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.9815813302993774
+        },
+        {
+          "title": "Captain Phillips",
+          "year": 2013,
+          "cosine": 0.9628816843032837
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "cosine": 0.9574687480926514
+        },
+        {
+          "title": "The Bourne Ultimatum",
+          "year": 2007,
+          "cosine": 0.9567030668258667
+        }
+      ]
+    },
+    {
+      "query": "The Godfather",
+      "matched_title": "The Godfather",
+      "matched_year": 1972,
+      "neighbors": [
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "cosine": 0.9560973644256592
+        },
+        {
+          "title": "Papillon",
+          "year": 1973,
+          "cosine": 0.9361466765403748
+        },
+        {
+          "title": "On the Waterfront",
+          "year": 1954,
+          "cosine": 0.9167627096176147
+        },
+        {
+          "title": "10 Rillington Place",
+          "year": 1971,
+          "cosine": 0.9131094217300415
+        },
+        {
+          "title": "Young Frankenstein",
+          "year": 1974,
+          "cosine": 0.9129620790481567
+        }
+      ]
+    },
+    {
+      "query": "Toy Story",
+      "matched_title": "Toy Story",
+      "matched_year": 1995,
+      "neighbors": [
+        {
+          "title": "Toy Story 2",
+          "year": 1999,
+          "cosine": 0.980739176273346
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "cosine": 0.9805176258087158
+        },
+        {
+          "title": "WALL\u00b7E",
+          "year": 2008,
+          "cosine": 0.974925696849823
+        },
+        {
+          "title": "The Wrong Trousers",
+          "year": 1993,
+          "cosine": 0.9672614336013794
+        },
+        {
+          "title": "Spaceballs",
+          "year": 1987,
+          "cosine": 0.9668877720832825
+        }
+      ]
+    },
+    {
+      "query": "The Shawshank Redemption",
+      "matched_title": "The Shawshank Redemption",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Boyz n the Hood",
+          "year": 1991,
+          "cosine": 0.9904147386550903
+        },
+        {
+          "title": "Cool Hand Luke",
+          "year": 1967,
+          "cosine": 0.983725905418396
+        },
+        {
+          "title": "Blow",
+          "year": 2001,
+          "cosine": 0.9833019971847534
+        },
+        {
+          "title": "Midnight Express",
+          "year": 1978,
+          "cosine": 0.9816889762878418
+        },
+        {
+          "title": "The Basketball Diaries",
+          "year": 1995,
+          "cosine": 0.9802589416503906
+        }
+      ]
+    },
+    {
+      "query": "Pulp Fiction",
+      "matched_title": "Pulp Fiction",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Fargo",
+          "year": 1996,
+          "cosine": 0.9412819147109985
+        },
+        {
+          "title": "Traffic",
+          "year": 2000,
+          "cosine": 0.9158706068992615
+        },
+        {
+          "title": "Kill Bill: Vol. 2",
+          "year": 2004,
+          "cosine": 0.8928200602531433
+        },
+        {
+          "title": "Lost Highway",
+          "year": 1997,
+          "cosine": 0.8917987942695618
+        },
+        {
+          "title": "Elevator to the Gallows",
+          "year": 1958,
+          "cosine": 0.8887618780136108
+        }
+      ]
+    },
+    {
+      "query": "The Matrix",
+      "matched_title": "The Matrix",
+      "matched_year": 1999,
+      "neighbors": [
+        {
+          "title": "Return of the Jedi",
+          "year": 1983,
+          "cosine": 0.9873431324958801
+        },
+        {
+          "title": "Hot Fuzz",
+          "year": 2007,
+          "cosine": 0.9866302609443665
+        },
+        {
+          "title": "Braveheart",
+          "year": 1995,
+          "cosine": 0.9858696460723877
+        },
+        {
+          "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "year": 2003,
+          "cosine": 0.9846675992012024
+        },
+        {
+          "title": "The Incredibles",
+          "year": 2004,
+          "cosine": 0.9845066070556641
+        }
+      ]
+    },
+    {
+      "query": "Interstellar",
+      "matched_title": "Interstellar",
+      "matched_year": 2014,
+      "neighbors": [
+        {
+          "title": "The Grand Budapest Hotel",
+          "year": 2014,
+          "cosine": 0.9708327054977417
+        },
+        {
+          "title": "Labor Day",
+          "year": 2013,
+          "cosine": 0.9605699777603149
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "cosine": 0.9600816965103149
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "cosine": 0.9560025930404663
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "cosine": 0.9555315971374512
+        }
+      ]
+    },
+    {
+      "query": "Forrest Gump",
+      "matched_title": "Forrest Gump",
+      "matched_year": 1994,
+      "neighbors": [
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "cosine": 0.973315954208374
+        },
+        {
+          "title": "10 Things I Hate About You",
+          "year": 1999,
+          "cosine": 0.9733126163482666
+        },
+        {
+          "title": "Breakfast at Tiffany's",
+          "year": 1961,
+          "cosine": 0.9725905656814575
+        },
+        {
+          "title": "Ever After: A Cinderella Story",
+          "year": 1998,
+          "cosine": 0.9701223373413086
+        },
+        {
+          "title": "Cabaret",
+          "year": 1972,
+          "cosine": 0.9698201417922974
+        }
+      ]
+    },
+    {
+      "query": "The Dark Knight",
+      "matched_title": "The Dark Knight",
+      "matched_year": 2008,
+      "neighbors": [
+        {
+          "title": "Inception",
+          "year": 2010,
+          "cosine": 0.9911093711853027
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "cosine": 0.9741485714912415
+        },
+        {
+          "title": "The Bourne Ultimatum",
+          "year": 2007,
+          "cosine": 0.9710854291915894
+        },
+        {
+          "title": "Captain Phillips",
+          "year": 2013,
+          "cosine": 0.9641973972320557
+        },
+        {
+          "title": "Serenity",
+          "year": 2005,
+          "cosine": 0.9580882787704468
+        }
+      ]
+    },
+    {
+      "query": "Spirited Away",
+      "matched_title": "Spirited Away",
+      "matched_year": 2001,
+      "neighbors": [
+        {
+          "title": "Princess Mononoke",
+          "year": 1997,
+          "cosine": 0.9933561682701111
+        },
+        {
+          "title": "Porco Rosso",
+          "year": 1992,
+          "cosine": 0.9874287843704224
+        },
+        {
+          "title": "My Neighbor Totoro",
+          "year": 1988,
+          "cosine": 0.9800611734390259
+        },
+        {
+          "title": "Summer Wars",
+          "year": 2009,
+          "cosine": 0.9785720109939575
+        },
+        {
+          "title": "Kiki's Delivery Service",
+          "year": 1989,
+          "cosine": 0.9783883690834045
+        }
+      ]
+    }
+  ],
+  "phase": "round-2",
+  "family": "ae"
+}

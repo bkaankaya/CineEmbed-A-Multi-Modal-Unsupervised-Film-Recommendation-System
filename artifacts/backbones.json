@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ae_z32",
+    "z": 32,
+    "label": "AE z=32 (demo backbone)",
+    "genreAtFive": 0.723,
+    "gnmi": 0.334,
+    "preferred": true,
+    "checkpointSha256_32": "d61181b1a240a0f4e7a0cd8a4d7e748c",
+    "nFilms": 329044
+  },
+  {
+    "id": "ae_z64",
+    "z": 64,
+    "label": "AE z=64 (MVP carry-over)",
+    "genreAtFive": 0.715,
+    "gnmi": 0.328,
+    "preferred": false,
+    "checkpointSha256_32": "e7326ef3d6f6988a6ebd7e6502c9f0c4",
+    "nFilms": 329044
+  },
+  {
+    "id": "ae_z128",
+    "z": 128,
+    "label": "AE z=128 (over-parameterised)",
+    "genreAtFive": 0.722,
+    "gnmi": 0.273,
+    "preferred": false,
+    "checkpointSha256_32": "4e4cafcb86c58a1cbf64971f740bf19f",
+    "nFilms": 329044
+  }
+]

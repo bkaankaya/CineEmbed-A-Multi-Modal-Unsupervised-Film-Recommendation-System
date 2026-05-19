@@ -1,0 +1,8 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": ["src"],
+  "include": ["src", "tests"],
+  "exclude": [".venv", "**/__pycache__", "**/.pytest_cache"],
+  "reportMissingImports": "warning"
+}

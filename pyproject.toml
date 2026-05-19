@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cineembed"
+version = "0.1.0"
+description = "Multi-modal AE/VAE/DEC for movie metadata clustering (SENG 474 final project)"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scikit-learn>=1.4",
+    "scipy>=1.11",
+    "torch>=2.0",
+    "umap-learn>=0.5",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-cov>=4.1", "pytest-asyncio>=0.23"]
+wandb = ["wandb>=0.16"]
+demo = [
+    "pyarrow>=15",
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.27",
+    "pydantic>=2.6",
+    "rapidfuzz>=3.0",
+    "httpx>=0.27",
+    "pycountry>=23.12",
+    "aiolimiter>=1.1",
+    "scikit-learn>=1.4",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"
+asyncio_mode = "auto"

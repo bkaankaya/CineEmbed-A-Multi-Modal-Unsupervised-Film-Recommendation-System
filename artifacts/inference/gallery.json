@@ -1,0 +1,3469 @@
+{
+  "queries": [
+    "Inception",
+    "Spirited Away",
+    "Shawshank",
+    "Pulp Fiction",
+    "Toy Story"
+  ],
+  "matrix": {
+    "Inception": {
+      "ae_z32": {
+        "query": {
+          "id": 27205,
+          "title": "Inception",
+          "year": 2010,
+          "rating": 8.1,
+          "votes": 12811,
+          "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction",
+            "Mystery",
+            "Adventure"
+          ],
+          "country": "GB",
+          "duration": 148.0,
+          "language": "en",
+          "director": "Christopher Nolan",
+          "cluster": 14,
+          "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+          "time": "2010s",
+          "place": "GB",
+          "posterColor": "hsl(85, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+          "tagline": "Your mind is the scene of the crime.",
+          "style": [],
+          "plot": [
+            "mission",
+            "dreams",
+            "kidnapping",
+            "spy",
+            "allegory",
+            "intellectual",
+            "manipulation",
+            "heist"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 155,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "rating": 8.2,
+            "votes": 11168,
+            "genres": [
+              "Drama",
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "country": "GB",
+            "duration": 152.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 14,
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "time": "2000s",
+            "place": "GB",
+            "posterColor": "hsl(275, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+            "tagline": "Welcome to a world without rules.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "sadism",
+              "chaos",
+              "secret identity",
+              "crime fighter",
+              "superhero",
+              "anti hero",
+              "scarecrow",
+              "based on comic"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9911093711853027
+          },
+          {
+            "id": 49026,
+            "title": "The Dark Knight Rises",
+            "year": 2012,
+            "rating": 7.5,
+            "votes": 8589,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 165.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 14,
+            "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(66, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+            "tagline": "The legend ends.",
+            "style": [],
+            "plot": [
+              "airplane",
+              "fight",
+              "burglar",
+              "hostage",
+              "secret identity",
+              "crime fighter",
+              "superhero",
+              "villainess"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9815813302993774
+          },
+          {
+            "id": 109424,
+            "title": "Captain Phillips",
+            "year": 2013,
+            "rating": 7.6,
+            "votes": 2349,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 134.0,
+            "language": "en",
+            "director": "Paul Greengrass",
+            "cluster": 14,
+            "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(104, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+            "tagline": "Out here survival is everything.",
+            "style": [],
+            "plot": [
+              "ship",
+              "africa",
+              "fisherman",
+              "hijacking",
+              "somalia",
+              "based on true story",
+              "poverty",
+              "pirate"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9628816843032837
+          },
+          {
+            "id": 374720,
+            "title": "Dunkirk",
+            "year": 2017,
+            "rating": 7.4,
+            "votes": 860,
+            "genres": [
+              "Action",
+              "Drama",
+              "History",
+              "Thriller",
+              "War"
+            ],
+            "country": "NL",
+            "duration": 107.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 14,
+            "overview": "Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.",
+            "time": "2010s",
+            "place": "NL",
+            "posterColor": "hsl(80, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+            "tagline": "When 400,000 men couldn't get home, home came for them.",
+            "style": [],
+            "plot": [
+              "army",
+              "beach",
+              "france",
+              "allies",
+              "raf (royal air force)",
+              "military officer",
+              "world war ii",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9574687480926514
+          },
+          {
+            "id": 2503,
+            "title": "The Bourne Ultimatum",
+            "year": 2007,
+            "rating": 7.3,
+            "votes": 2747,
+            "genres": [
+              "Action",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "country": "DE",
+            "duration": 115.0,
+            "language": "en",
+            "director": "Paul Greengrass",
+            "cluster": 14,
+            "overview": "Bourne is brought out of hiding once again by reporter Simon Ross who is trying to unveil Operation Blackbriar, an upgrade to Project Treadstone, in a series of newspaper columns. Information from the reporter stirs a new set of memories, and Bourne must finally uncover his dark past while dodging The Company's best efforts to eradicate him.",
+            "time": "2000s",
+            "place": "DE",
+            "posterColor": "hsl(223, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+            "tagline": "Remember everything. Forgive nothing.",
+            "style": [],
+            "plot": [
+              "assassin",
+              "central intelligence agency (cia)",
+              "corruption",
+              "paris, france",
+              "based on novel or book",
+              "madrid, spain",
+              "espionage",
+              "prosecution"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9567030668258667
+          }
+        ]
+      },
+      "ae_z64": {
+        "query": {
+          "id": 27205,
+          "title": "Inception",
+          "year": 2010,
+          "rating": 8.1,
+          "votes": 12811,
+          "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction",
+            "Mystery",
+            "Adventure"
+          ],
+          "country": "GB",
+          "duration": 148.0,
+          "language": "en",
+          "director": "Christopher Nolan",
+          "cluster": 13,
+          "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+          "time": "2010s",
+          "place": "GB",
+          "posterColor": "hsl(85, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+          "tagline": "Your mind is the scene of the crime.",
+          "style": [],
+          "plot": [
+            "mission",
+            "dreams",
+            "kidnapping",
+            "spy",
+            "allegory",
+            "intellectual",
+            "manipulation",
+            "heist"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 157336,
+            "title": "Interstellar",
+            "year": 2014,
+            "rating": 8.1,
+            "votes": 9893,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Science Fiction"
+            ],
+            "country": "CA",
+            "duration": 169.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 13,
+            "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "time": "2010s",
+            "place": "CA",
+            "posterColor": "hsl(256, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+            "tagline": "Mankind was born on Earth. It was never meant to die here.",
+            "style": [],
+            "plot": [
+              "rescue",
+              "future",
+              "spacecraft",
+              "race against time",
+              "artificial intelligence (a.i.)",
+              "nasa",
+              "time warp",
+              "dystopia"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.969092607498169
+          },
+          {
+            "id": 99861,
+            "title": "Avengers: Age of Ultron",
+            "year": 2015,
+            "rating": 7.3,
+            "votes": 6208,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "country": "US",
+            "duration": 141.0,
+            "language": "en",
+            "director": "Joss Whedon",
+            "cluster": 13,
+            "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(141, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+            "tagline": "A new age has come.",
+            "style": [],
+            "plot": [
+              "artificial intelligence (a.i.)",
+              "saving the world",
+              "superhero",
+              "based on comic",
+              "sequel",
+              "vision",
+              "robot",
+              "superhero team"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9655241370201111
+          },
+          {
+            "id": 24428,
+            "title": "The Avengers",
+            "year": 2012,
+            "rating": 7.4,
+            "votes": 11100,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure"
+            ],
+            "country": "US",
+            "duration": 143.0,
+            "language": "en",
+            "director": "Joss Whedon",
+            "cluster": 13,
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(68, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+            "tagline": "Some assembly required.",
+            "style": [],
+            "plot": [
+              "new york city",
+              "superhero",
+              "shield",
+              "based on comic",
+              "alien invasion",
+              "superhero team",
+              "aftercreditsstinger",
+              "duringcreditsstinger"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9609421491622925
+          },
+          {
+            "id": 49026,
+            "title": "The Dark Knight Rises",
+            "year": 2012,
+            "rating": 7.5,
+            "votes": 8589,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 165.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 13,
+            "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(66, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+            "tagline": "The legend ends.",
+            "style": [],
+            "plot": [
+              "airplane",
+              "fight",
+              "burglar",
+              "hostage",
+              "secret identity",
+              "crime fighter",
+              "superhero",
+              "villainess"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9523729681968689
+          },
+          {
+            "id": 374720,
+            "title": "Dunkirk",
+            "year": 2017,
+            "rating": 7.4,
+            "votes": 860,
+            "genres": [
+              "Action",
+              "Drama",
+              "History",
+              "Thriller",
+              "War"
+            ],
+            "country": "NL",
+            "duration": 107.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 13,
+            "overview": "Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.",
+            "time": "2010s",
+            "place": "NL",
+            "posterColor": "hsl(80, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+            "tagline": "When 400,000 men couldn't get home, home came for them.",
+            "style": [],
+            "plot": [
+              "army",
+              "beach",
+              "france",
+              "allies",
+              "raf (royal air force)",
+              "military officer",
+              "world war ii",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9506400227546692
+          }
+        ]
+      },
+      "ae_z128": {
+        "query": {
+          "id": 27205,
+          "title": "Inception",
+          "year": 2010,
+          "rating": 8.1,
+          "votes": 12811,
+          "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction",
+            "Mystery",
+            "Adventure"
+          ],
+          "country": "GB",
+          "duration": 148.0,
+          "language": "en",
+          "director": "Christopher Nolan",
+          "cluster": 20,
+          "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+          "time": "2010s",
+          "place": "GB",
+          "posterColor": "hsl(85, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+          "tagline": "Your mind is the scene of the crime.",
+          "style": [],
+          "plot": [
+            "mission",
+            "dreams",
+            "kidnapping",
+            "spy",
+            "allegory",
+            "intellectual",
+            "manipulation",
+            "heist"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 374720,
+            "title": "Dunkirk",
+            "year": 2017,
+            "rating": 7.4,
+            "votes": 860,
+            "genres": [
+              "Action",
+              "Drama",
+              "History",
+              "Thriller",
+              "War"
+            ],
+            "country": "NL",
+            "duration": 107.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 20,
+            "overview": "Miraculous evacuation of Allied soldiers from Belgium, Britain, Canada, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26 and June 04, 1940, during Battle of France in World War II.",
+            "time": "2010s",
+            "place": "NL",
+            "posterColor": "hsl(80, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+            "tagline": "When 400,000 men couldn't get home, home came for them.",
+            "style": [],
+            "plot": [
+              "army",
+              "beach",
+              "france",
+              "allies",
+              "raf (royal air force)",
+              "military officer",
+              "world war ii",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9686420559883118
+          },
+          {
+            "id": 99861,
+            "title": "Avengers: Age of Ultron",
+            "year": 2015,
+            "rating": 7.3,
+            "votes": 6208,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "country": "US",
+            "duration": 141.0,
+            "language": "en",
+            "director": "Joss Whedon",
+            "cluster": 20,
+            "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(141, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+            "tagline": "A new age has come.",
+            "style": [],
+            "plot": [
+              "artificial intelligence (a.i.)",
+              "saving the world",
+              "superhero",
+              "based on comic",
+              "sequel",
+              "vision",
+              "robot",
+              "superhero team"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9642475843429565
+          },
+          {
+            "id": 155,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "rating": 8.2,
+            "votes": 11168,
+            "genres": [
+              "Drama",
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "country": "GB",
+            "duration": 152.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 20,
+            "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+            "time": "2000s",
+            "place": "GB",
+            "posterColor": "hsl(275, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+            "tagline": "Welcome to a world without rules.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "sadism",
+              "chaos",
+              "secret identity",
+              "crime fighter",
+              "superhero",
+              "anti hero",
+              "scarecrow",
+              "based on comic"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9634292125701904
+          },
+          {
+            "id": 49026,
+            "title": "The Dark Knight Rises",
+            "year": 2012,
+            "rating": 7.5,
+            "votes": 8589,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 165.0,
+            "language": "en",
+            "director": "Christopher Nolan",
+            "cluster": 20,
+            "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(66, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+            "tagline": "The legend ends.",
+            "style": [],
+            "plot": [
+              "airplane",
+              "fight",
+              "burglar",
+              "hostage",
+              "secret identity",
+              "crime fighter",
+              "superhero",
+              "villainess"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9624461531639099
+          },
+          {
+            "id": 109424,
+            "title": "Captain Phillips",
+            "year": 2013,
+            "rating": 7.6,
+            "votes": 2349,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 134.0,
+            "language": "en",
+            "director": "Paul Greengrass",
+            "cluster": 20,
+            "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+            "time": "2010s",
+            "place": "US",
+            "posterColor": "hsl(104, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihdFypo7MyfJvDSjK7Sbnsjhu8H.jpg",
+            "tagline": "Out here survival is everything.",
+            "style": [],
+            "plot": [
+              "ship",
+              "africa",
+              "fisherman",
+              "hijacking",
+              "somalia",
+              "based on true story",
+              "poverty",
+              "pirate"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9621762633323669
+          }
+        ]
+      }
+    },
+    "Spirited Away": {
+      "ae_z32": {
+        "query": {
+          "id": 129,
+          "title": "Spirited Away",
+          "year": 2001,
+          "rating": 8.3,
+          "votes": 3472,
+          "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+          ],
+          "country": "JP",
+          "duration": 125.0,
+          "language": "ja",
+          "director": "Hayao Miyazaki",
+          "cluster": 14,
+          "overview": "A ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",
+          "time": "2000s",
+          "place": "JP",
+          "posterColor": "hsl(129, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+          "tagline": "Beyond the tunnel was a mysterious town.",
+          "style": [
+            "anime"
+          ],
+          "plot": [
+            "witch",
+            "parent child relationship",
+            "darkness",
+            "bath house",
+            "magic",
+            "spirit",
+            "parallel world",
+            "amusement park"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 128,
+            "title": "Princess Mononoke",
+            "year": 1997,
+            "rating": 8.2,
+            "votes": 1795,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Animation"
+            ],
+            "country": "JP",
+            "duration": 134.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 14,
+            "overview": "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(248, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+            "tagline": "The fate of the world rests on the courage of one warrior.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "friendship",
+              "human vs nature",
+              "wolf",
+              "fight",
+              "wild boar",
+              "territory",
+              "leprosy",
+              "feral child"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9933561086654663
+          },
+          {
+            "id": 11621,
+            "title": "Porco Rosso",
+            "year": 1992,
+            "rating": 7.5,
+            "votes": 487,
+            "genres": [
+              "Comedy",
+              "Animation",
+              "Adventure"
+            ],
+            "country": "JP",
+            "duration": 94.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 14,
+            "overview": "Porco Rosso, known in Japan as Crimson Pig (Kurenai no Buta) is the sixth animated film by Hayao Miyazaki and released in 1992. You're introduced to an Italian World War I fighter ace, now living as a freelance bounty hunter chasing \"air pirates\" in the Adriatic Sea. He has been given a curse that changed his head to that of a pig. Once called Marco Pagot, he is now known to the world as \"Porco Rosso\", Italian for \"Red Pig.\"",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(221, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/pFalq14lacs2oO7Q6YKiNqz5uAC.jpg",
+            "tagline": "Can a pig really fly?",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "beach",
+              "mediterranean",
+              "italy",
+              "fascism",
+              "transformation",
+              "singer",
+              "war hero",
+              "air pirate"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9874287843704224
+          },
+          {
+            "id": 8392,
+            "title": "My Neighbor Totoro",
+            "year": 1988,
+            "rating": 8.0,
+            "votes": 1510,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Family"
+            ],
+            "country": "JP",
+            "duration": 86.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 14,
+            "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+            "time": "1980s",
+            "place": "JP",
+            "posterColor": "hsl(352, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+            "tagline": "He's your friendly neighbourhood forest spirit!",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "mother",
+              "sibling relationship",
+              "village",
+              "leave",
+              "rural area",
+              "hospital",
+              "new neighbor",
+              "new home"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9800611734390259
+          },
+          {
+            "id": 28874,
+            "title": "Summer Wars",
+            "year": 2009,
+            "rating": 7.4,
+            "votes": 239,
+            "genres": [
+              "Animation"
+            ],
+            "country": "JP",
+            "duration": 114.0,
+            "language": "ja",
+            "director": "Mamoru Hosoda",
+            "cluster": 14,
+            "overview": "Kenji is your typical teenage misfit. He’s good at math, bad with girls, and spends most of his time out hanging out in the all-powerful online community known as OZ. His second life is the only life he has – until the girl of his dreams, Natsuki, hijacks him for a starring role as a fake fiancé at her family reunion. Things only get stranger from there. A late-night email containing a cryptic mathematic riddle leads to the unleashing of a rogue AI intent on using the virtual world of OZ to destroy the real world. As Armageddon looms on the horizon, Kenji and his new “family” set aside their differences and band together to save the worlds they inhabit in this \"near-perfect blend of social satire and science fiction.\"",
+            "time": "2000s",
+            "place": "JP",
+            "posterColor": "hsl(194, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+            "tagline": "Always protect your network.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "card game",
+              "artificial intelligence (a.i.)",
+              "computer",
+              "hacker",
+              "virtual reality",
+              "family holiday",
+              "adult animation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9785721302032471
+          },
+          {
+            "id": 16859,
+            "title": "Kiki's Delivery Service",
+            "year": 1989,
+            "rating": 7.6,
+            "votes": 673,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Drama",
+              "Fantasy"
+            ],
+            "country": "JP",
+            "duration": 103.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 14,
+            "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "time": "1980s",
+            "place": "JP",
+            "posterColor": "hsl(59, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/h5pAEVma835u8xoE60kmLVopLct.jpg",
+            "tagline": "I was feeling blue, but I'm better now.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "witch",
+              "clock tower",
+              "bicycle accident",
+              "female friendship",
+              "bakery",
+              "coming of age",
+              "based on children's book",
+              "cartoon cat"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9783883094787598
+          }
+        ]
+      },
+      "ae_z64": {
+        "query": {
+          "id": 129,
+          "title": "Spirited Away",
+          "year": 2001,
+          "rating": 8.3,
+          "votes": 3472,
+          "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+          ],
+          "country": "JP",
+          "duration": 125.0,
+          "language": "ja",
+          "director": "Hayao Miyazaki",
+          "cluster": 18,
+          "overview": "A ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",
+          "time": "2000s",
+          "place": "JP",
+          "posterColor": "hsl(129, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+          "tagline": "Beyond the tunnel was a mysterious town.",
+          "style": [
+            "anime"
+          ],
+          "plot": [
+            "witch",
+            "parent child relationship",
+            "darkness",
+            "bath house",
+            "magic",
+            "spirit",
+            "parallel world",
+            "amusement park"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 128,
+            "title": "Princess Mononoke",
+            "year": 1997,
+            "rating": 8.2,
+            "votes": 1795,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Animation"
+            ],
+            "country": "JP",
+            "duration": 134.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 18,
+            "overview": "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(248, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+            "tagline": "The fate of the world rests on the courage of one warrior.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "friendship",
+              "human vs nature",
+              "wolf",
+              "fight",
+              "wild boar",
+              "territory",
+              "leprosy",
+              "feral child"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9819537401199341
+          },
+          {
+            "id": 81,
+            "title": "Nausicaä of the Valley of the Wind",
+            "year": 1984,
+            "rating": 7.7,
+            "votes": 732,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "country": "JP",
+            "duration": 117.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 18,
+            "overview": "After a global war, the seaside kingdom known as the Valley Of The Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaa, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+            "time": "1980s",
+            "place": "JP",
+            "posterColor": "hsl(81, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+            "tagline": "A young girl's love called forth miracles…",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "future",
+              "airplane",
+              "saving the world",
+              "human vs nature",
+              "fungus spores   ",
+              "post-apocalyptic future",
+              "giant insect",
+              "toxic"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9676857590675354
+          },
+          {
+            "id": 15283,
+            "title": "Pom Poko",
+            "year": 1994,
+            "rating": 7.1,
+            "votes": 152,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "country": "JP",
+            "duration": 119.0,
+            "language": "ja",
+            "director": "Isao Takahata",
+            "cluster": 18,
+            "overview": "The Raccoons of the Tama Hills are being forced from their homes by the rapid development of houses and shopping malls. As it becomes harder to find food and shelter, they decide to band together and fight back. The Raccoons practice and perfect the ancient art of transformation until they are even able to appear as humans in hilarious circumstances.",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(43, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/zat2MMhejQyJJN6CucLI9Or9kdo.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/AouRp7KcIOVmsSuZlTXKqT4aYT2.jpg",
+            "tagline": "A Fantastic Tale Of Survival",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "animals",
+              "environment",
+              "japanese mythology",
+              "critical"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9626134634017944
+          },
+          {
+            "id": 3176,
+            "title": "Battle Royale",
+            "year": 2000,
+            "rating": 7.3,
+            "votes": 899,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Adventure"
+            ],
+            "country": "JP",
+            "duration": 114.0,
+            "language": "ja",
+            "director": "Kinji Fukasaku",
+            "cluster": 18,
+            "overview": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary \"Battle Royale\" act.",
+            "time": "2000s",
+            "place": "JP",
+            "posterColor": "hsl(56, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/aLGKAQKgzWpJ6egyWzzC11jXBRJ.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/gtYmm8HeM6CneomZ98flixAGsBe.jpg",
+            "tagline": "Could you kill your best friend?",
+            "style": [],
+            "plot": [
+              "high school",
+              "friendship",
+              "suicide",
+              "island",
+              "japan",
+              "based on novel or book",
+              "asia",
+              "dystopia"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9617228507995605
+          },
+          {
+            "id": 16859,
+            "title": "Kiki's Delivery Service",
+            "year": 1989,
+            "rating": 7.6,
+            "votes": 673,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Drama",
+              "Fantasy"
+            ],
+            "country": "JP",
+            "duration": 103.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 18,
+            "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "time": "1980s",
+            "place": "JP",
+            "posterColor": "hsl(59, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/h5pAEVma835u8xoE60kmLVopLct.jpg",
+            "tagline": "I was feeling blue, but I'm better now.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "witch",
+              "clock tower",
+              "bicycle accident",
+              "female friendship",
+              "bakery",
+              "coming of age",
+              "based on children's book",
+              "cartoon cat"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9580549001693726
+          }
+        ]
+      },
+      "ae_z128": {
+        "query": {
+          "id": 129,
+          "title": "Spirited Away",
+          "year": 2001,
+          "rating": 8.3,
+          "votes": 3472,
+          "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+          ],
+          "country": "JP",
+          "duration": 125.0,
+          "language": "ja",
+          "director": "Hayao Miyazaki",
+          "cluster": 6,
+          "overview": "A ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",
+          "time": "2000s",
+          "place": "JP",
+          "posterColor": "hsl(129, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+          "tagline": "Beyond the tunnel was a mysterious town.",
+          "style": [
+            "anime"
+          ],
+          "plot": [
+            "witch",
+            "parent child relationship",
+            "darkness",
+            "bath house",
+            "magic",
+            "spirit",
+            "parallel world",
+            "amusement park"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 128,
+            "title": "Princess Mononoke",
+            "year": 1997,
+            "rating": 8.2,
+            "votes": 1795,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Animation"
+            ],
+            "country": "JP",
+            "duration": 134.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 6,
+            "overview": "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(248, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+            "tagline": "The fate of the world rests on the courage of one warrior.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "friendship",
+              "human vs nature",
+              "wolf",
+              "fight",
+              "wild boar",
+              "territory",
+              "leprosy",
+              "feral child"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9880555868148804
+          },
+          {
+            "id": 11621,
+            "title": "Porco Rosso",
+            "year": 1992,
+            "rating": 7.5,
+            "votes": 487,
+            "genres": [
+              "Comedy",
+              "Animation",
+              "Adventure"
+            ],
+            "country": "JP",
+            "duration": 94.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 20,
+            "overview": "Porco Rosso, known in Japan as Crimson Pig (Kurenai no Buta) is the sixth animated film by Hayao Miyazaki and released in 1992. You're introduced to an Italian World War I fighter ace, now living as a freelance bounty hunter chasing \"air pirates\" in the Adriatic Sea. He has been given a curse that changed his head to that of a pig. Once called Marco Pagot, he is now known to the world as \"Porco Rosso\", Italian for \"Red Pig.\"",
+            "time": "1990s",
+            "place": "JP",
+            "posterColor": "hsl(221, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/pFalq14lacs2oO7Q6YKiNqz5uAC.jpg",
+            "tagline": "Can a pig really fly?",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "beach",
+              "mediterranean",
+              "italy",
+              "fascism",
+              "transformation",
+              "singer",
+              "war hero",
+              "air pirate"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.977299690246582
+          },
+          {
+            "id": 8392,
+            "title": "My Neighbor Totoro",
+            "year": 1988,
+            "rating": 8.0,
+            "votes": 1510,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Family"
+            ],
+            "country": "JP",
+            "duration": 86.0,
+            "language": "ja",
+            "director": "Hayao Miyazaki",
+            "cluster": 6,
+            "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+            "time": "1980s",
+            "place": "JP",
+            "posterColor": "hsl(352, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+            "tagline": "He's your friendly neighbourhood forest spirit!",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "mother",
+              "sibling relationship",
+              "village",
+              "leave",
+              "rural area",
+              "hospital",
+              "new neighbor",
+              "new home"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9754511713981628
+          },
+          {
+            "id": 28874,
+            "title": "Summer Wars",
+            "year": 2009,
+            "rating": 7.4,
+            "votes": 239,
+            "genres": [
+              "Animation"
+            ],
+            "country": "JP",
+            "duration": 114.0,
+            "language": "ja",
+            "director": "Mamoru Hosoda",
+            "cluster": 6,
+            "overview": "Kenji is your typical teenage misfit. He’s good at math, bad with girls, and spends most of his time out hanging out in the all-powerful online community known as OZ. His second life is the only life he has – until the girl of his dreams, Natsuki, hijacks him for a starring role as a fake fiancé at her family reunion. Things only get stranger from there. A late-night email containing a cryptic mathematic riddle leads to the unleashing of a rogue AI intent on using the virtual world of OZ to destroy the real world. As Armageddon looms on the horizon, Kenji and his new “family” set aside their differences and band together to save the worlds they inhabit in this \"near-perfect blend of social satire and science fiction.\"",
+            "time": "2000s",
+            "place": "JP",
+            "posterColor": "hsl(194, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+            "tagline": "Always protect your network.",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "card game",
+              "artificial intelligence (a.i.)",
+              "computer",
+              "hacker",
+              "virtual reality",
+              "family holiday",
+              "adult animation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9732431173324585
+          },
+          {
+            "id": 110420,
+            "title": "Wolf Children",
+            "year": 2012,
+            "rating": 8.0,
+            "votes": 417,
+            "genres": [
+              "Animation",
+              "Drama",
+              "Family",
+              "Fantasy"
+            ],
+            "country": "JP",
+            "duration": 117.0,
+            "language": "ja",
+            "director": "Mamoru Hosoda",
+            "cluster": 20,
+            "overview": "Hana, a nineteen-year-old college student, falls in love with a man only for him to reveal his secret; he is a Wolf Man. Eventually the couple bear two children together; a son and daughter they name Ame and Yuki who both inherit the ability to transform into wolves from their father. When the man Hana fell in love with suddenly dies, she makes the decision to move to a rural town isolated from society to continue raising the children in protection.",
+            "time": "2010s",
+            "place": "JP",
+            "posterColor": "hsl(20, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/3Nllh6JgcrFdtOn6iFOWHudNInd.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
+            "tagline": "One mother, two worlds, endless sacrifice...",
+            "style": [
+              "anime"
+            ],
+            "plot": [
+              "wolf",
+              "forest",
+              "death of father",
+              "growing up",
+              "rural area",
+              "werewolf",
+              "single mother",
+              "adult animation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9714540243148804
+          }
+        ]
+      }
+    },
+    "Shawshank": {
+      "ae_z32": {
+        "query": {
+          "id": 278,
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "rating": 8.5,
+          "votes": 7711,
+          "genres": [
+            "Drama",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 142.0,
+          "language": "en",
+          "director": "Frank Darabont",
+          "cluster": 14,
+          "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(38, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+          "tagline": "Fear can hold you prisoner. Hope can set you free.",
+          "style": [],
+          "plot": [
+            "prison",
+            "friendship",
+            "police brutality",
+            "corruption",
+            "based on novel or book",
+            "freedom",
+            "hope",
+            "prison cell"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 650,
+            "title": "Boyz n the Hood",
+            "year": 1991,
+            "rating": 7.4,
+            "votes": 337,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 112.0,
+            "language": "en",
+            "director": "John Singleton",
+            "cluster": 14,
+            "overview": "Boyz n the Hood is the popular and successful film and social criticism from John Singleton about the conditions in South Central Los Angeles where teenagers are involved in gun fights and drug dealing on a daily basis.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(50, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/zcuF8dkH9rgHyigLRf9lkFsWVQp.jpg",
+            "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale.",
+            "style": [],
+            "plot": [
+              "street gang",
+              "gangster",
+              "rapper",
+              "ghetto",
+              "street war",
+              "violence in schools",
+              "coming of age",
+              "social commentary"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9904147982597351
+          },
+          {
+            "id": 903,
+            "title": "Cool Hand Luke",
+            "year": 1967,
+            "rating": 7.6,
+            "votes": 357,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 126.0,
+            "language": "en",
+            "director": "Stuart Rosenberg",
+            "cluster": 14,
+            "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "time": "1960s",
+            "place": "US",
+            "posterColor": "hsl(183, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+            "tagline": "The man... and the motion picture that simply do not conform.",
+            "style": [],
+            "plot": [
+              "prison",
+              "dying and death",
+              "florida",
+              "based on novel or book",
+              "escape",
+              "loss of loved one",
+              "rebel",
+              "harassment"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9837258458137512
+          },
+          {
+            "id": 4133,
+            "title": "Blow",
+            "year": 2001,
+            "rating": 7.4,
+            "votes": 1227,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 124.0,
+            "language": "en",
+            "director": "Ted Demme",
+            "cluster": 14,
+            "overview": "A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(293, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/v3ClsT59peXyGJ4XuDvIQAPwcZy.jpg",
+            "tagline": "based on a true story",
+            "style": [],
+            "plot": [
+              "drug smuggling",
+              "war on drugs",
+              "drug trafficking",
+              "1970s",
+              "drug addiction",
+              "rise and fall",
+              "cautionary",
+              "factual"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9833019971847534
+          },
+          {
+            "id": 11327,
+            "title": "Midnight Express",
+            "year": 1978,
+            "rating": 7.6,
+            "votes": 287,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "country": "US",
+            "duration": 121.0,
+            "language": "en",
+            "director": "Alan Parker",
+            "cluster": 14,
+            "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+            "time": "1970s",
+            "place": "US",
+            "posterColor": "hsl(287, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/mIzGfVCSWmmYjLIIbA2BX3rlV56.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/f4dcx5U9X3w27e8iithmsaohF5t.jpg",
+            "tagline": "Walk into the incredible true experience of Billy Hayes. And bring all the courage you can.",
+            "style": [],
+            "plot": [
+              "prison",
+              "airport",
+              "drug smuggling",
+              "escape",
+              "court",
+              "1970s",
+              "attempt to escape",
+              "based on true story"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9816889762878418
+          },
+          {
+            "id": 10474,
+            "title": "The Basketball Diaries",
+            "year": 1995,
+            "rating": 7.2,
+            "votes": 431,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "country": "US",
+            "duration": 102.0,
+            "language": "en",
+            "director": "Scott Kalvert",
+            "cluster": 14,
+            "overview": "Film adaptation of street tough Jim Carroll's epistle about his kaleidoscopic free fall into the harrowing world of drug addiction.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(274, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+            "tagline": "The true story of the death of innocence and the birth of an artist.",
+            "style": [],
+            "plot": [
+              "new york city",
+              "sports",
+              "heroin",
+              "addiction",
+              "basketball",
+              "friends",
+              "based on memoir or autobiography",
+              "drugs"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9802589416503906
+          }
+        ]
+      },
+      "ae_z64": {
+        "query": {
+          "id": 278,
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "rating": 8.5,
+          "votes": 7711,
+          "genres": [
+            "Drama",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 142.0,
+          "language": "en",
+          "director": "Frank Darabont",
+          "cluster": 18,
+          "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(38, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+          "tagline": "Fear can hold you prisoner. Hope can set you free.",
+          "style": [],
+          "plot": [
+            "prison",
+            "friendship",
+            "police brutality",
+            "corruption",
+            "based on novel or book",
+            "freedom",
+            "hope",
+            "prison cell"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 274,
+            "title": "The Silence of the Lambs",
+            "year": 1991,
+            "rating": 8.0,
+            "votes": 4092,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 119.0,
+            "language": "en",
+            "director": "Jonathan Demme",
+            "cluster": 18,
+            "overview": "FBI trainee, Clarice Starling ventures into a maximum-security asylum to pick the diseased brain of Hannibal Lecter, a psychiatrist turned homicidal cannibal. Starling needs clues to help her capture a serial killer. but her Faustian relationship with Lecter soon leads to his escape, and now two deranged killers are on the loose.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(154, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+            "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+            "style": [
+              "psychological thriller",
+              "neo-noir",
+              "psychological horror"
+            ],
+            "plot": [
+              "prison",
+              "based on novel or book",
+              "kidnapping",
+              "psychopath",
+              "fbi",
+              "scientific study",
+              "murder",
+              "serial killer"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9872654676437378
+          },
+          {
+            "id": 629,
+            "title": "The Usual Suspects",
+            "year": 1995,
+            "rating": 8.1,
+            "votes": 2988,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 106.0,
+            "language": "en",
+            "director": "Bryan Singer",
+            "cluster": 18,
+            "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(29, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+            "tagline": "Five criminals. One line up. No coincidence.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "new york city",
+              "robbery",
+              "relatives",
+              "heist",
+              "flashback",
+              "police corruption",
+              "whodunit",
+              "los angeles, california"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9861107468605042
+          },
+          {
+            "id": 73,
+            "title": "American History X",
+            "year": 1998,
+            "rating": 8.1,
+            "votes": 2747,
+            "genres": [
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 119.0,
+            "language": "en",
+            "director": "Tony Kaye",
+            "cluster": 18,
+            "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two thugs who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(313, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+            "tagline": "Some legacies must end.",
+            "style": [],
+            "plot": [
+              "prison",
+              "neo-nazism",
+              "rape",
+              "skinhead",
+              "sibling relationship",
+              "swastika",
+              "nazi",
+              "brother"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9860029816627502
+          },
+          {
+            "id": 650,
+            "title": "Boyz n the Hood",
+            "year": 1991,
+            "rating": 7.4,
+            "votes": 337,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 112.0,
+            "language": "en",
+            "director": "John Singleton",
+            "cluster": 18,
+            "overview": "Boyz n the Hood is the popular and successful film and social criticism from John Singleton about the conditions in South Central Los Angeles where teenagers are involved in gun fights and drug dealing on a daily basis.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(50, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/zcuF8dkH9rgHyigLRf9lkFsWVQp.jpg",
+            "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale.",
+            "style": [],
+            "plot": [
+              "street gang",
+              "gangster",
+              "rapper",
+              "ghetto",
+              "street war",
+              "violence in schools",
+              "coming of age",
+              "social commentary"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.98444002866745
+          },
+          {
+            "id": 500,
+            "title": "Reservoir Dogs",
+            "year": 1992,
+            "rating": 8.0,
+            "votes": 3342,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 99.0,
+            "language": "en",
+            "director": "Quentin Tarantino",
+            "cluster": 18,
+            "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(260, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+            "tagline": "Every dog has his day.",
+            "style": [],
+            "plot": [
+              "escape",
+              "jewelry",
+              "psychopath",
+              "traitor",
+              "ear",
+              "heist",
+              "thief",
+              "betrayal"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9839439392089844
+          }
+        ]
+      },
+      "ae_z128": {
+        "query": {
+          "id": 278,
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "rating": 8.5,
+          "votes": 7711,
+          "genres": [
+            "Drama",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 142.0,
+          "language": "en",
+          "director": "Frank Darabont",
+          "cluster": 6,
+          "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(38, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+          "tagline": "Fear can hold you prisoner. Hope can set you free.",
+          "style": [],
+          "plot": [
+            "prison",
+            "friendship",
+            "police brutality",
+            "corruption",
+            "based on novel or book",
+            "freedom",
+            "hope",
+            "prison cell"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 73,
+            "title": "American History X",
+            "year": 1998,
+            "rating": 8.1,
+            "votes": 2747,
+            "genres": [
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 119.0,
+            "language": "en",
+            "director": "Tony Kaye",
+            "cluster": 20,
+            "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two thugs who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(313, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+            "tagline": "Some legacies must end.",
+            "style": [],
+            "plot": [
+              "prison",
+              "neo-nazism",
+              "rape",
+              "skinhead",
+              "sibling relationship",
+              "swastika",
+              "nazi",
+              "brother"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9864296913146973
+          },
+          {
+            "id": 650,
+            "title": "Boyz n the Hood",
+            "year": 1991,
+            "rating": 7.4,
+            "votes": 337,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 112.0,
+            "language": "en",
+            "director": "John Singleton",
+            "cluster": 20,
+            "overview": "Boyz n the Hood is the popular and successful film and social criticism from John Singleton about the conditions in South Central Los Angeles where teenagers are involved in gun fights and drug dealing on a daily basis.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(50, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/zcuF8dkH9rgHyigLRf9lkFsWVQp.jpg",
+            "tagline": "Once upon a time in South Central L.A... It ain't no fairy tale.",
+            "style": [],
+            "plot": [
+              "street gang",
+              "gangster",
+              "rapper",
+              "ghetto",
+              "street war",
+              "violence in schools",
+              "coming of age",
+              "social commentary"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9840344190597534
+          },
+          {
+            "id": 903,
+            "title": "Cool Hand Luke",
+            "year": 1967,
+            "rating": 7.6,
+            "votes": 357,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 126.0,
+            "language": "en",
+            "director": "Stuart Rosenberg",
+            "cluster": 20,
+            "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "time": "1960s",
+            "place": "US",
+            "posterColor": "hsl(183, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+            "tagline": "The man... and the motion picture that simply do not conform.",
+            "style": [],
+            "plot": [
+              "prison",
+              "dying and death",
+              "florida",
+              "based on novel or book",
+              "escape",
+              "loss of loved one",
+              "rebel",
+              "harassment"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.98226398229599
+          },
+          {
+            "id": 625,
+            "title": "The Killing Fields",
+            "year": 1984,
+            "rating": 7.5,
+            "votes": 164,
+            "genres": [
+              "War",
+              "Drama",
+              "History"
+            ],
+            "country": "GB",
+            "duration": 141.0,
+            "language": "en",
+            "director": "Roland Joffé",
+            "cluster": 6,
+            "overview": "The Killing Fields tells the real life story of a friendship between two journalists, an American and a Cambodian, during the bloody Khmer Rouge takeover of Cambodia in 1975, which lead to the death of 2-3 million Cambodians during the next four years, until Pol Pot's regime was toppled by the intervening Vietnamese in 1979.",
+            "time": "1980s",
+            "place": "GB",
+            "posterColor": "hsl(145, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/c7OeJd34rc9bI1DXqd4ucb1wVrf.jpg",
+            "tagline": "Here, only the silent survive.",
+            "style": [],
+            "plot": [
+              "journalist",
+              "vietnam",
+              "cambodia",
+              "civil war",
+              "based on novel or book",
+              "photographer",
+              "mass murder",
+              "1970s"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9822260141372681
+          },
+          {
+            "id": 4133,
+            "title": "Blow",
+            "year": 2001,
+            "rating": 7.4,
+            "votes": 1227,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 124.0,
+            "language": "en",
+            "director": "Ted Demme",
+            "cluster": 20,
+            "overview": "A boy named George Jung grows up in a struggling family in the 1950's. His mother nags at her husband as he is trying to make a living for the family. It is finally revealed that George's father cannot make a living and the family goes bankrupt. George does not want the same thing to happen to him, and his friend Tuna, in the 1960's, suggests that he deal marijuana. He is a big hit in California in the 1960's, yet he goes to jail, where he finds out about the wonders of cocaine. As a result, when released, he gets rich by bringing cocaine to America. However, he soon pays the price.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(293, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/v3ClsT59peXyGJ4XuDvIQAPwcZy.jpg",
+            "tagline": "based on a true story",
+            "style": [],
+            "plot": [
+              "drug smuggling",
+              "war on drugs",
+              "drug trafficking",
+              "1970s",
+              "drug addiction",
+              "rise and fall",
+              "cautionary",
+              "factual"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9803072810173035
+          }
+        ]
+      }
+    },
+    "Pulp Fiction": {
+      "ae_z32": {
+        "query": {
+          "id": 680,
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "rating": 8.2,
+          "votes": 7761,
+          "genres": [
+            "Thriller",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 154.0,
+          "language": "en",
+          "director": "Quentin Tarantino",
+          "cluster": 8,
+          "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(80, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+          "tagline": "You won’t know the facts until you’ve seen the fiction.",
+          "style": [
+            "dark comedy",
+            "neo-noir"
+          ],
+          "plot": [
+            "drug dealer",
+            "drug crime",
+            "stolen money",
+            "crime boss",
+            "redemption",
+            "los angeles, california",
+            "theft",
+            "nonlinear timeline"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 275,
+            "title": "Fargo",
+            "year": 1996,
+            "rating": 7.7,
+            "votes": 1853,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 98.0,
+            "language": "en",
+            "director": "Joel Coen",
+            "cluster": 8,
+            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(35, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+            "tagline": "A homespun murder story.",
+            "style": [
+              "dark comedy",
+              "neo-noir"
+            ],
+            "plot": [
+              "salesclerk",
+              "unsociability",
+              "police",
+              "cheating",
+              "ransom",
+              "winter",
+              "kidnapping",
+              "minnesota"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9412819147109985
+          },
+          {
+            "id": 1900,
+            "title": "Traffic",
+            "year": 2000,
+            "rating": 6.8,
+            "votes": 525,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Crime"
+            ],
+            "country": "DE",
+            "duration": 147.0,
+            "language": "en",
+            "director": "Steven Soderbergh",
+            "cluster": 8,
+            "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+            "time": "2000s",
+            "place": "DE",
+            "posterColor": "hsl(340, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/nkMgY1XFLWr91najzfvwie8LyYF.jpg",
+            "tagline": "No one gets away clean",
+            "style": [],
+            "plot": [
+              "drug dealer",
+              "daughter",
+              "mother",
+              "drug abuse",
+              "drug smuggling",
+              "smuggling (contraband)",
+              "war on drugs",
+              "drug trafficking"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9158706665039062
+          },
+          {
+            "id": 393,
+            "title": "Kill Bill: Vol. 2",
+            "year": 2004,
+            "rating": 7.6,
+            "votes": 3590,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 136.0,
+            "language": "en",
+            "director": "Quentin Tarantino",
+            "cluster": 8,
+            "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(33, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+            "tagline": "The bride is back for the final cut.",
+            "style": [],
+            "plot": [
+              "daughter",
+              "martial arts",
+              "kung fu",
+              "showdown",
+              "right and justice",
+              "rage and hate",
+              "sibling relationship",
+              "swordplay"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.8928201198577881
+          },
+          {
+            "id": 638,
+            "title": "Lost Highway",
+            "year": 1997,
+            "rating": 7.4,
+            "votes": 515,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "country": "US",
+            "duration": 134.0,
+            "language": "en",
+            "director": "David Lynch",
+            "cluster": 14,
+            "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgangers, and an impossible transformation inside a prison cell.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(38, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+            "tagline": "A lost road on the edge of strange...",
+            "style": [
+              "surrealism",
+              "psychological thriller"
+            ],
+            "plot": [
+              "prison",
+              "pornography",
+              "jealousy",
+              "dreams",
+              "dual identity",
+              "nightmare",
+              "police",
+              "sexual frustration"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.8917987942695618
+          },
+          {
+            "id": 1093,
+            "title": "Elevator to the Gallows",
+            "year": 1958,
+            "rating": 7.6,
+            "votes": 68,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "country": "FR",
+            "duration": 88.0,
+            "language": "fr",
+            "director": "Louis Malle",
+            "cluster": 8,
+            "overview": "The feature-film debut of famed director Louis Malle is an interesting, modern film noir with the classic theme of lovers plotting to kill the husband and make it look like suicide (reminiscent of The Postman Always Rings Twice). Jeanne Moreau gives an astonishing performance, perverse but naive as she leads her young lover down a path that can only lead to doom for both of them.",
+            "time": "1950s",
+            "place": "FR",
+            "posterColor": "hsl(253, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/jgeZS97po2luaeElfUh07VAbVfV.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/r8fEOeDjlbtvaxYZ3QDh21gzpKh.jpg",
+            "tagline": "Frantic for life and love, frantic for excitement.",
+            "style": [
+              "film noir",
+              "black and white"
+            ],
+            "plot": [
+              "secret love",
+              "paris, france",
+              "car race",
+              "suicide attempt",
+              "arms deal",
+              "photography",
+              "camera",
+              "suspicion of murder"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.8887618780136108
+          }
+        ]
+      },
+      "ae_z64": {
+        "query": {
+          "id": 680,
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "rating": 8.2,
+          "votes": 7761,
+          "genres": [
+            "Thriller",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 154.0,
+          "language": "en",
+          "director": "Quentin Tarantino",
+          "cluster": 18,
+          "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(80, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+          "tagline": "You won’t know the facts until you’ve seen the fiction.",
+          "style": [
+            "dark comedy",
+            "neo-noir"
+          ],
+          "plot": [
+            "drug dealer",
+            "drug crime",
+            "stolen money",
+            "crime boss",
+            "redemption",
+            "los angeles, california",
+            "theft",
+            "nonlinear timeline"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 290,
+            "title": "Barton Fink",
+            "year": 1991,
+            "rating": 7.3,
+            "votes": 406,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "country": "GB",
+            "duration": 116.0,
+            "language": "en",
+            "director": "Joel Coen",
+            "cluster": 18,
+            "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+            "time": "1990s",
+            "place": "GB",
+            "posterColor": "hsl(50, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/3VTY3ZaP5UDLgfI1z2HJHEgesnA.jpg",
+            "tagline": "There's only one thing stranger than what's going on inside his head... What's going on outside.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "hotel",
+              "screenplay",
+              "mass murder",
+              "movie business",
+              "screenwriter",
+              "neighbor",
+              "los angeles, california",
+              "1940s"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9609776735305786
+          },
+          {
+            "id": 1578,
+            "title": "Raging Bull",
+            "year": 1980,
+            "rating": 7.7,
+            "votes": 844,
+            "genres": [
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 129.0,
+            "language": "en",
+            "director": "Martin Scorsese",
+            "cluster": 15,
+            "overview": "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life, he winds up in the ring alone.",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(138, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+            "tagline": "I don’t go down for nobody.",
+            "style": [
+              "black and white"
+            ],
+            "plot": [
+              "florida",
+              "new york city",
+              "jealousy",
+              "transporter",
+              "sports",
+              "brother",
+              "paranoia",
+              "violent husband"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9487870335578918
+          },
+          {
+            "id": 2009,
+            "title": "4 Months, 3 Weeks and 2 Days",
+            "year": 2007,
+            "rating": 7.3,
+            "votes": 145,
+            "genres": [
+              "Drama"
+            ],
+            "country": "BE",
+            "duration": 113.0,
+            "language": "ro",
+            "director": "Cristian Mungiu",
+            "cluster": 15,
+            "overview": "Gabita is pregnant, abortion is strictly forbidden in Romania during the communist regime. Despite this it is common practice and Gabita wants an abortion. The movie follows her and her friend Otilia during the day she has made the appointment with Mr. Bebe to have the abortion.",
+            "time": "2000s",
+            "place": "BE",
+            "posterColor": "hsl(329, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ejpLiTuMGBtmaLqvy97GOp6YUrU.jpg",
+            "tagline": "At what moment do we begin to live?",
+            "style": [],
+            "plot": [
+              "hotel room",
+              "rape",
+              "sexual abuse",
+              "bureaucracy",
+              "totalitarian regime",
+              "cohabitant",
+              "female friendship",
+              "dormitory"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9482939839363098
+          },
+          {
+            "id": 103,
+            "title": "Taxi Driver",
+            "year": 1976,
+            "rating": 8.0,
+            "votes": 2266,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 114.0,
+            "language": "en",
+            "director": "Martin Scorsese",
+            "cluster": 15,
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+            "time": "1970s",
+            "place": "US",
+            "posterColor": "hsl(343, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+            "tagline": "On every street in every city in this country, there's a nobody who dreams of being somebody. He's a lonely forgotten man desperate to prove that he's alive.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "drug dealer",
+              "vietnam veteran",
+              "new york city",
+              "taxi",
+              "pornography",
+              "obsession",
+              "taxi driver",
+              "1970s"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9435064792633057
+          },
+          {
+            "id": 1412,
+            "title": "Sex, Lies, and Videotape",
+            "year": 1989,
+            "rating": 6.7,
+            "votes": 176,
+            "genres": [
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 100.0,
+            "language": "en",
+            "director": "Steven Soderbergh",
+            "cluster": 15,
+            "overview": "A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(92, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/wD95UmpUazo9820qnbbjRtbQ884.jpg",
+            "tagline": "the husband. the wife. her sister. his friend.",
+            "style": [],
+            "plot": [
+              "sexual obsession",
+              "sexuality",
+              "orgasm",
+              "spanner",
+              "louisiana",
+              "longing",
+              "interview",
+              "love affair"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9258149266242981
+          }
+        ]
+      },
+      "ae_z128": {
+        "query": {
+          "id": 680,
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "rating": 8.2,
+          "votes": 7761,
+          "genres": [
+            "Thriller",
+            "Crime"
+          ],
+          "country": "US",
+          "duration": 154.0,
+          "language": "en",
+          "director": "Quentin Tarantino",
+          "cluster": 20,
+          "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(80, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+          "tagline": "You won’t know the facts until you’ve seen the fiction.",
+          "style": [
+            "dark comedy",
+            "neo-noir"
+          ],
+          "plot": [
+            "drug dealer",
+            "drug crime",
+            "stolen money",
+            "crime boss",
+            "redemption",
+            "los angeles, california",
+            "theft",
+            "nonlinear timeline"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 103,
+            "title": "Taxi Driver",
+            "year": 1976,
+            "rating": 8.0,
+            "votes": 2266,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 114.0,
+            "language": "en",
+            "director": "Martin Scorsese",
+            "cluster": 20,
+            "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+            "time": "1970s",
+            "place": "US",
+            "posterColor": "hsl(343, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+            "tagline": "On every street in every city in this country, there's a nobody who dreams of being somebody. He's a lonely forgotten man desperate to prove that he's alive.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "drug dealer",
+              "vietnam veteran",
+              "new york city",
+              "taxi",
+              "pornography",
+              "obsession",
+              "taxi driver",
+              "1970s"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9284831881523132
+          },
+          {
+            "id": 275,
+            "title": "Fargo",
+            "year": 1996,
+            "rating": 7.7,
+            "votes": 1853,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "country": "US",
+            "duration": 98.0,
+            "language": "en",
+            "director": "Joel Coen",
+            "cluster": 20,
+            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(35, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+            "tagline": "A homespun murder story.",
+            "style": [
+              "dark comedy",
+              "neo-noir"
+            ],
+            "plot": [
+              "salesclerk",
+              "unsociability",
+              "police",
+              "cheating",
+              "ransom",
+              "winter",
+              "kidnapping",
+              "minnesota"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.928148627281189
+          },
+          {
+            "id": 2009,
+            "title": "4 Months, 3 Weeks and 2 Days",
+            "year": 2007,
+            "rating": 7.3,
+            "votes": 145,
+            "genres": [
+              "Drama"
+            ],
+            "country": "BE",
+            "duration": 113.0,
+            "language": "ro",
+            "director": "Cristian Mungiu",
+            "cluster": 20,
+            "overview": "Gabita is pregnant, abortion is strictly forbidden in Romania during the communist regime. Despite this it is common practice and Gabita wants an abortion. The movie follows her and her friend Otilia during the day she has made the appointment with Mr. Bebe to have the abortion.",
+            "time": "2000s",
+            "place": "BE",
+            "posterColor": "hsl(329, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/ejpLiTuMGBtmaLqvy97GOp6YUrU.jpg",
+            "tagline": "At what moment do we begin to live?",
+            "style": [],
+            "plot": [
+              "hotel room",
+              "rape",
+              "sexual abuse",
+              "bureaucracy",
+              "totalitarian regime",
+              "cohabitant",
+              "female friendship",
+              "dormitory"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9104166626930237
+          },
+          {
+            "id": 1578,
+            "title": "Raging Bull",
+            "year": 1980,
+            "rating": 7.7,
+            "votes": 844,
+            "genres": [
+              "Drama"
+            ],
+            "country": "US",
+            "duration": 129.0,
+            "language": "en",
+            "director": "Martin Scorsese",
+            "cluster": 20,
+            "overview": "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life, he winds up in the ring alone.",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(138, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+            "tagline": "I don’t go down for nobody.",
+            "style": [
+              "black and white"
+            ],
+            "plot": [
+              "florida",
+              "new york city",
+              "jealousy",
+              "transporter",
+              "sports",
+              "brother",
+              "paranoia",
+              "violent husband"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9081568121910095
+          },
+          {
+            "id": 290,
+            "title": "Barton Fink",
+            "year": 1991,
+            "rating": 7.3,
+            "votes": 406,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "country": "GB",
+            "duration": 116.0,
+            "language": "en",
+            "director": "Joel Coen",
+            "cluster": 20,
+            "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+            "time": "1990s",
+            "place": "GB",
+            "posterColor": "hsl(50, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/3VTY3ZaP5UDLgfI1z2HJHEgesnA.jpg",
+            "tagline": "There's only one thing stranger than what's going on inside his head... What's going on outside.",
+            "style": [
+              "neo-noir"
+            ],
+            "plot": [
+              "hotel",
+              "screenplay",
+              "mass murder",
+              "movie business",
+              "screenwriter",
+              "neighbor",
+              "los angeles, california",
+              "1940s"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9050073623657227
+          }
+        ]
+      }
+    },
+    "Toy Story": {
+      "ae_z32": {
+        "query": {
+          "id": 862,
+          "title": "Toy Story",
+          "year": 1995,
+          "rating": 7.7,
+          "votes": 4760,
+          "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+          ],
+          "country": "US",
+          "duration": 81.0,
+          "language": "en",
+          "director": "John Lasseter",
+          "cluster": 14,
+          "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(22, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+          "tagline": "The adventure takes off when toys come to life!",
+          "style": [],
+          "plot": [
+            "rescue",
+            "friendship",
+            "mission",
+            "jealousy",
+            "villain",
+            "bullying",
+            "elementary school",
+            "rivalry"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 863,
+            "title": "Toy Story 2",
+            "year": 1999,
+            "rating": 7.3,
+            "votes": 3417,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 92.0,
+            "language": "en",
+            "director": "John Lasseter",
+            "cluster": 14,
+            "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(263, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+            "tagline": "The toys are back in town!",
+            "style": [],
+            "plot": [
+              "friendship",
+              "airplane",
+              "museum",
+              "prosecution",
+              "identity crisis",
+              "villain",
+              "flea market",
+              "collector"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.980739176273346
+          },
+          {
+            "id": 2062,
+            "title": "Ratatouille",
+            "year": 2007,
+            "rating": 7.4,
+            "votes": 3889,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "country": "US",
+            "duration": 111.0,
+            "language": "en",
+            "director": "Brad Bird",
+            "cluster": 14,
+            "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(142, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+            "tagline": "He's dying to become a chef.",
+            "style": [],
+            "plot": [
+              "work",
+              "sibling relationship",
+              "paris, france",
+              "expensive restaurant",
+              "river",
+              "confidence",
+              "cooking",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9805177450180054
+          },
+          {
+            "id": 10681,
+            "title": "WALL·E",
+            "year": 2008,
+            "rating": 7.8,
+            "votes": 5839,
+            "genres": [
+              "Animation",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 98.0,
+            "language": "en",
+            "director": "Andrew Stanton",
+            "cluster": 14,
+            "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(121, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+            "style": [],
+            "plot": [
+              "garbage",
+              "dystopia",
+              "space travel",
+              "distant future",
+              "loneliness",
+              "robot",
+              "aftercreditsstinger",
+              "duringcreditsstinger"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9749256372451782
+          },
+          {
+            "id": 531,
+            "title": "The Wrong Trousers",
+            "year": 1993,
+            "rating": 7.6,
+            "votes": 246,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "country": "GB",
+            "duration": 30.0,
+            "language": "en",
+            "director": "Nick Park",
+            "cluster": 14,
+            "overview": "Gromit finds himself being pushed out of his room and home by a new lodger who is actually a ruthless criminal (and a small penguin). The penguin is planning a robbery and needs to use Wallace and his mechanical remote controlled trousers to pull off the raid. However, Gromit is wise to the penguin and comes to the rescue.",
+            "time": "1990s",
+            "place": "GB",
+            "posterColor": "hsl(171, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
+            "tagline": null,
+            "style": [
+              "surrealism",
+              "stop motion",
+              "claymation"
+            ],
+            "plot": [
+              "robbery",
+              "inventor",
+              "diamond",
+              "human animal relationship",
+              "penguin",
+              "telecontrol",
+              "villain",
+              "anthropomorphism"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9672614336013794
+          },
+          {
+            "id": 957,
+            "title": "Spaceballs",
+            "year": 1987,
+            "rating": 6.7,
+            "votes": 840,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "country": "US",
+            "duration": 96.0,
+            "language": "en",
+            "director": "Mel Brooks",
+            "cluster": 14,
+            "overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(237, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/5j77rB8NRa7lXuu1Sgmm6wfgrzZ.jpg",
+            "tagline": "May the schwartz be with you.",
+            "style": [
+              "satire",
+              "parody"
+            ],
+            "plot": [
+              "galaxy",
+              "android",
+              "space marine",
+              "laser gun",
+              "temple",
+              "swordplay",
+              "space battle",
+              "space travel"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9668878316879272
+          }
+        ]
+      },
+      "ae_z64": {
+        "query": {
+          "id": 862,
+          "title": "Toy Story",
+          "year": 1995,
+          "rating": 7.7,
+          "votes": 4760,
+          "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+          ],
+          "country": "US",
+          "duration": 81.0,
+          "language": "en",
+          "director": "John Lasseter",
+          "cluster": 18,
+          "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(22, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+          "tagline": "The adventure takes off when toys come to life!",
+          "style": [],
+          "plot": [
+            "rescue",
+            "friendship",
+            "mission",
+            "jealousy",
+            "villain",
+            "bullying",
+            "elementary school",
+            "rivalry"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 863,
+            "title": "Toy Story 2",
+            "year": 1999,
+            "rating": 7.3,
+            "votes": 3417,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 92.0,
+            "language": "en",
+            "director": "John Lasseter",
+            "cluster": 18,
+            "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(263, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+            "tagline": "The toys are back in town!",
+            "style": [],
+            "plot": [
+              "friendship",
+              "airplane",
+              "museum",
+              "prosecution",
+              "identity crisis",
+              "villain",
+              "flea market",
+              "collector"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.985792338848114
+          },
+          {
+            "id": 10681,
+            "title": "WALL·E",
+            "year": 2008,
+            "rating": 7.8,
+            "votes": 5839,
+            "genres": [
+              "Animation",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 98.0,
+            "language": "en",
+            "director": "Andrew Stanton",
+            "cluster": 18,
+            "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(121, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+            "style": [],
+            "plot": [
+              "garbage",
+              "dystopia",
+              "space travel",
+              "distant future",
+              "loneliness",
+              "robot",
+              "aftercreditsstinger",
+              "duringcreditsstinger"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9779961109161377
+          },
+          {
+            "id": 2062,
+            "title": "Ratatouille",
+            "year": 2007,
+            "rating": 7.4,
+            "votes": 3889,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "country": "US",
+            "duration": 111.0,
+            "language": "en",
+            "director": "Brad Bird",
+            "cluster": 18,
+            "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(142, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+            "tagline": "He's dying to become a chef.",
+            "style": [],
+            "plot": [
+              "work",
+              "sibling relationship",
+              "paris, france",
+              "expensive restaurant",
+              "river",
+              "confidence",
+              "cooking",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.974452793598175
+          },
+          {
+            "id": 957,
+            "title": "Spaceballs",
+            "year": 1987,
+            "rating": 6.7,
+            "votes": 840,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "country": "US",
+            "duration": 96.0,
+            "language": "en",
+            "director": "Mel Brooks",
+            "cluster": 18,
+            "overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(237, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/5j77rB8NRa7lXuu1Sgmm6wfgrzZ.jpg",
+            "tagline": "May the schwartz be with you.",
+            "style": [
+              "satire",
+              "parody"
+            ],
+            "plot": [
+              "galaxy",
+              "android",
+              "space marine",
+              "laser gun",
+              "temple",
+              "swordplay",
+              "space battle",
+              "space travel"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9563207626342773
+          },
+          {
+            "id": 24238,
+            "title": "Mary and Max",
+            "year": 2009,
+            "rating": 7.8,
+            "votes": 553,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Drama"
+            ],
+            "country": "AU",
+            "duration": 92.0,
+            "language": "en",
+            "director": "Adam Elliot",
+            "cluster": 18,
+            "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York. In the mid-1970's, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. He writes back, with chocolate. Thus begins a 20-year correspondence. Will the two ever meet face to face?",
+            "time": "2000s",
+            "place": "AU",
+            "posterColor": "hsl(358, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/ebmsM382m9IClLUzKYY2U5biFwM.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
+            "tagline": "Sometimes perfect strangers make the best of friends.",
+            "style": [
+              "stop motion"
+            ],
+            "plot": [
+              "australia",
+              "chocolate",
+              "approach",
+              "letter",
+              "birthmark",
+              "only child",
+              "bullying",
+              "friendship bracelet"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9555639028549194
+          }
+        ]
+      },
+      "ae_z128": {
+        "query": {
+          "id": 862,
+          "title": "Toy Story",
+          "year": 1995,
+          "rating": 7.7,
+          "votes": 4760,
+          "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+          ],
+          "country": "US",
+          "duration": 81.0,
+          "language": "en",
+          "director": "John Lasseter",
+          "cluster": 20,
+          "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+          "time": "1990s",
+          "place": "US",
+          "posterColor": "hsl(22, 65%, 42%)",
+          "posterUrl": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+          "tagline": "The adventure takes off when toys come to life!",
+          "style": [],
+          "plot": [
+            "rescue",
+            "friendship",
+            "mission",
+            "jealousy",
+            "villain",
+            "bullying",
+            "elementary school",
+            "rivalry"
+          ],
+          "tmdbStatus": "ok"
+        },
+        "neighbors": [
+          {
+            "id": 531,
+            "title": "The Wrong Trousers",
+            "year": 1993,
+            "rating": 7.6,
+            "votes": 246,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "country": "GB",
+            "duration": 30.0,
+            "language": "en",
+            "director": "Nick Park",
+            "cluster": 20,
+            "overview": "Gromit finds himself being pushed out of his room and home by a new lodger who is actually a ruthless criminal (and a small penguin). The penguin is planning a robbery and needs to use Wallace and his mechanical remote controlled trousers to pull off the raid. However, Gromit is wise to the penguin and comes to the rescue.",
+            "time": "1990s",
+            "place": "GB",
+            "posterColor": "hsl(171, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
+            "tagline": null,
+            "style": [
+              "surrealism",
+              "stop motion",
+              "claymation"
+            ],
+            "plot": [
+              "robbery",
+              "inventor",
+              "diamond",
+              "human animal relationship",
+              "penguin",
+              "telecontrol",
+              "villain",
+              "anthropomorphism"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9916481971740723
+          },
+          {
+            "id": 863,
+            "title": "Toy Story 2",
+            "year": 1999,
+            "rating": 7.3,
+            "votes": 3417,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 92.0,
+            "language": "en",
+            "director": "John Lasseter",
+            "cluster": 20,
+            "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "time": "1990s",
+            "place": "US",
+            "posterColor": "hsl(263, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+            "tagline": "The toys are back in town!",
+            "style": [],
+            "plot": [
+              "friendship",
+              "airplane",
+              "museum",
+              "prosecution",
+              "identity crisis",
+              "villain",
+              "flea market",
+              "collector"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9878078103065491
+          },
+          {
+            "id": 2062,
+            "title": "Ratatouille",
+            "year": 2007,
+            "rating": 7.4,
+            "votes": 3889,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "country": "US",
+            "duration": 111.0,
+            "language": "en",
+            "director": "Brad Bird",
+            "cluster": 20,
+            "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(142, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+            "tagline": "He's dying to become a chef.",
+            "style": [],
+            "plot": [
+              "work",
+              "sibling relationship",
+              "paris, france",
+              "expensive restaurant",
+              "river",
+              "confidence",
+              "cooking",
+              "evacuation"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9822983741760254
+          },
+          {
+            "id": 10681,
+            "title": "WALL·E",
+            "year": 2008,
+            "rating": 7.8,
+            "votes": 5839,
+            "genres": [
+              "Animation",
+              "Family"
+            ],
+            "country": "US",
+            "duration": 98.0,
+            "language": "en",
+            "director": "Andrew Stanton",
+            "cluster": 20,
+            "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
+            "time": "2000s",
+            "place": "US",
+            "posterColor": "hsl(121, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+            "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+            "style": [],
+            "plot": [
+              "garbage",
+              "dystopia",
+              "space travel",
+              "distant future",
+              "loneliness",
+              "robot",
+              "aftercreditsstinger",
+              "duringcreditsstinger"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9814716577529907
+          },
+          {
+            "id": 957,
+            "title": "Spaceballs",
+            "year": 1987,
+            "rating": 6.7,
+            "votes": 840,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "country": "US",
+            "duration": 96.0,
+            "language": "en",
+            "director": "Mel Brooks",
+            "cluster": 20,
+            "overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+            "time": "1980s",
+            "place": "US",
+            "posterColor": "hsl(237, 65%, 42%)",
+            "posterUrl": "https://image.tmdb.org/t/p/w342/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+            "backdropUrl": "https://image.tmdb.org/t/p/w1280/5j77rB8NRa7lXuu1Sgmm6wfgrzZ.jpg",
+            "tagline": "May the schwartz be with you.",
+            "style": [
+              "satire",
+              "parody"
+            ],
+            "plot": [
+              "galaxy",
+              "android",
+              "space marine",
+              "laser gun",
+              "temple",
+              "swordplay",
+              "space battle",
+              "space travel"
+            ],
+            "tmdbStatus": "ok",
+            "cosine": 0.9588607549667358
+          }
+        ]
+      }
+    }
+  }
+}

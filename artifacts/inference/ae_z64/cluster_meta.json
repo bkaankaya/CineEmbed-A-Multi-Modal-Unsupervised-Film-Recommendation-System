@@ -1,0 +1,383 @@
+[
+  {
+    "id": 0,
+    "name": "Action · 2000s",
+    "size": 12462,
+    "topGenres": [
+      {
+        "genre": "Action",
+        "pct": 0.301
+      },
+      {
+        "genre": "Adventure",
+        "pct": 0.163
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.116
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 1,
+    "name": "Mixed · 2010s",
+    "size": 26630,
+    "topGenres": [],
+    "modalDecade": "2010s"
+  },
+  {
+    "id": 2,
+    "name": "Comedy · 2000s (k=2)",
+    "size": 20460,
+    "topGenres": [
+      {
+        "genre": "Comedy",
+        "pct": 0.379
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.335
+      },
+      {
+        "genre": "Music",
+        "pct": 0.054
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 3,
+    "name": "Drama · 2000s (k=3)",
+    "size": 15417,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.256
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.203
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.066
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 4,
+    "name": "Documentary · Mixed era (k=4)",
+    "size": 13049,
+    "topGenres": [
+      {
+        "genre": "Documentary",
+        "pct": 0.334
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.129
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.095
+      }
+    ],
+    "modalDecade": "Mixed era"
+  },
+  {
+    "id": 5,
+    "name": "Drama · 2000s (k=5)",
+    "size": 8061,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.388
+      },
+      {
+        "genre": "Romance",
+        "pct": 0.388
+      },
+      {
+        "genre": "Foreign",
+        "pct": 0.031
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 6,
+    "name": "Mixed · 2000s (k=6)",
+    "size": 9134,
+    "topGenres": [],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 7,
+    "name": "Drama · 2010s (k=7)",
+    "size": 26136,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.266
+      },
+      {
+        "genre": "Thriller",
+        "pct": 0.112
+      },
+      {
+        "genre": "Horror",
+        "pct": 0.095
+      }
+    ],
+    "modalDecade": "2010s"
+  },
+  {
+    "id": 8,
+    "name": "Drama · 1940s",
+    "size": 12823,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.305
+      },
+      {
+        "genre": "Western",
+        "pct": 0.108
+      },
+      {
+        "genre": "Horror",
+        "pct": 0.106
+      }
+    ],
+    "modalDecade": "1940s"
+  },
+  {
+    "id": 9,
+    "name": "Documentary · 2010s",
+    "size": 20927,
+    "topGenres": [
+      {
+        "genre": "Documentary",
+        "pct": 0.349
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.323
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.077
+      }
+    ],
+    "modalDecade": "2010s"
+  },
+  {
+    "id": 10,
+    "name": "Comedy · 2000s (k=10)",
+    "size": 9963,
+    "topGenres": [
+      {
+        "genre": "Comedy",
+        "pct": 0.426
+      },
+      {
+        "genre": "Romance",
+        "pct": 0.233
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.114
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 11,
+    "name": "Drama · 2000s (k=11)",
+    "size": 15193,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.313
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.249
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.075
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 12,
+    "name": "Mixed · 2000s (k=12)",
+    "size": 52004,
+    "topGenres": [],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 13,
+    "name": "Drama · 2010s (k=13)",
+    "size": 7087,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.191
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.13
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.122
+      }
+    ],
+    "modalDecade": "2010s"
+  },
+  {
+    "id": 14,
+    "name": "Documentary · Mixed era (k=14)",
+    "size": 12043,
+    "topGenres": [
+      {
+        "genre": "Documentary",
+        "pct": 0.241
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.159
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.112
+      }
+    ],
+    "modalDecade": "Mixed era"
+  },
+  {
+    "id": 15,
+    "name": "Drama · 2000s (k=15)",
+    "size": 7353,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.328
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.119
+      },
+      {
+        "genre": "Thriller",
+        "pct": 0.063
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 16,
+    "name": "Animation · 2000s",
+    "size": 11618,
+    "topGenres": [
+      {
+        "genre": "Animation",
+        "pct": 0.26
+      },
+      {
+        "genre": "Drama",
+        "pct": 0.22
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.093
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 17,
+    "name": "Drama · 2010s (k=17)",
+    "size": 7989,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.255
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.2
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.156
+      }
+    ],
+    "modalDecade": "2010s"
+  },
+  {
+    "id": 18,
+    "name": "Drama · 2000s (k=18)",
+    "size": 11439,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.2
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.145
+      },
+      {
+        "genre": "Thriller",
+        "pct": 0.081
+      }
+    ],
+    "modalDecade": "2000s"
+  },
+  {
+    "id": 19,
+    "name": "Drama · 1980s",
+    "size": 10743,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.226
+      },
+      {
+        "genre": "Comedy",
+        "pct": 0.144
+      },
+      {
+        "genre": "Documentary",
+        "pct": 0.106
+      }
+    ],
+    "modalDecade": "1980s"
+  },
+  {
+    "id": 20,
+    "name": "Drama · 2000s (k=20)",
+    "size": 18513,
+    "topGenres": [
+      {
+        "genre": "Drama",
+        "pct": 0.366
+      },
+      {
+        "genre": "Thriller",
+        "pct": 0.108
+      },
+      {
+        "genre": "Horror",
+        "pct": 0.102
+      }
+    ],
+    "modalDecade": "2000s"
+  }
+]
